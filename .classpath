@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/tagli/Desktop/file JAR origetto/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tagli/Desktop/file JAR origetto/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tagli/Desktop/file JAR origetto/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tagli/Desktop/file JAR origetto/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tagli/Desktop/file JAR origetto/controlsfx-8.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tagli/Desktop/file JAR origetto/controlsfx-8.40.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tagli/Desktop/file JAR origetto/guava-25.0-jre-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tagli/Desktop/file JAR origetto/jfoenix-8.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tagli/Desktop/file JAR origetto/mysql-connector-java-8.0.18.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tagli/Desktop/file JAR origetto/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tagli/Desktop/file JAR origetto/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tagli/Desktop/Nuova cartella (3)/trunk/externalLibs/guava-25.0-jre.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
